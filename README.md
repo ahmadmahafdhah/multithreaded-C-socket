@@ -1,7 +1,7 @@
 # multithreaded-C-socket
 TCP/UDP Multithreaded client and server
 
-This is a server that was build using c programming language.
+These are client-server that were build using c programming language.
 
 The server mainly perfroms a simple process either encrypting or decrypting to a string that has been sent from the client, using caeser cipher with some constraints, where the client can only send strings with lower case letters, it is just a matter of functionallity.
 **"YOU CAN MAKE THE SERVER DO WHAT EVER YOU WANT".** 
