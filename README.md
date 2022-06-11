@@ -9,9 +9,9 @@ The server mainly perfroms a simple process either encrypting or decrypting to a
 a quick revision of how socket work on server and client side works:
   
   
-                                                                **------**
-                                                               **|SERVER|**
-                                                                **------**
+                                  **------**
+                                 **|SERVER|**
+                                  **------**
      ------
     |socket|
      ------
